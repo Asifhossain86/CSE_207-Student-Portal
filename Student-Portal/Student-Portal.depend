@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1712307210 source:c:\users\a.h.r. asif\documents\cse_207\student-portal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student_portal.h"
+
+1712307188 c:\users\a.h.r. asif\documents\cse_207\student-portal\student_portal.h
+	<stdio.h>
+
+1712307186 source:c:\users\a.h.r. asif\documents\cse_207\student-portal\student_portal.c
+	"student_portal.h"
+	<string.h>
+
+1712308796 source:c:\users\a.h.r. asif\documents\cse_207\student-portal\admin_operations.c
+	"admin_operations.h"
+	<string.h>
+
+1712308770 c:\users\a.h.r. asif\documents\cse_207\student-portal\admin_operations.h
+	<stdio.h>
+
+1712310006 source:c:\users\a.h.r. asif\documents\cse_207\student-portal\faculty_operations.c
+	"faculty_operations.h"
+	<string.h>
+
+1712309978 c:\users\a.h.r. asif\documents\cse_207\student-portal\faculty_operations.h
+	<stdio.h>
+
+1712311525 source:c:\users\a.h.r. asif\documents\cse_207\student-portal\student_operations.c
+	<string.h>
+	"student_operations.h"
+	<string.h>
+	"student_operations.h"
+	<string.h>
+
+1712311413 c:\users\a.h.r. asif\documents\cse_207\student-portal\student_operations.h
+	<stdio.h>
+
